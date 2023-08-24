@@ -1,11 +1,6 @@
 #include <stdio.h>
 
-/**
- * magic - Entry point of the program.
- *
- * Return: Always 0.
- */
-int magic(void)
+int main(void)
 {
 	int n;
 	int a[5];
